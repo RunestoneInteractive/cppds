@@ -18,6 +18,7 @@ Introduction
     ObjectOrientedProgrammingDerivedClasses.rst
     Graphics.rst
     Summary.rst
+    Exercises.rst
     DiscussionQuestions.rst
     ProgrammingExercises.rst
     Glossary.rst
