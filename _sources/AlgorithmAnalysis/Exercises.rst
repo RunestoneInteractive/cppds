@@ -5,6 +5,7 @@ Answer the following **Multiple Choice** questions to
 assess what you have learned in this chapter.
 
 .. mchoice:: cds_AA_count
+   :author: Cynthia Lee
 
    Is that right to count how many times we perform each line of code when n is the size of vector?
 
@@ -23,6 +24,7 @@ assess what you have learned in this chapter.
        - Wrong! 
 
 .. mchoice:: cds_AA_bigo1
+   :author: Cynthia Lee
 
    f2 is O(f1)?
 
@@ -41,6 +43,7 @@ assess what you have learned in this chapter.
         - Wrong! 
 
 .. mchoice:: cds_AA_bigo2
+   :author: Cynthia Lee
 
    f1 is O(f2)?
 
@@ -59,6 +62,7 @@ assess what you have learned in this chapter.
        -  Wrong!
 
  .. mchoice:: cds_aa_bigo3
+   :author: Cynthia Lee
 
     f3 is O(f1)?
 
@@ -77,6 +81,7 @@ assess what you have learned in this chapter.
         + Correct! f3 <= O(f1)
 
 .. mchoice:: cds_AA_bigo4
+   :author: Cynthia Lee
 
     f1 is O(f3)?
 
@@ -95,6 +100,7 @@ assess what you have learned in this chapter.
         - Wrong!
 
 .. mchoice:: cds_AA_fomular1
+   :author: Cynthia Lee
 
     Let f(n) = 3 log2 n  +  4 n log2 n  +  n. Which of the following is true?
 
@@ -120,6 +126,7 @@ assess what you have learned in this chapter.
         + Correct!
 
 .. mchoice:: cds_AA_fomular2
+   :author: Cynthia Lee
 
     Let f(n) = 546 + 34n + 2n^2. Which of the following is true?
 
@@ -145,6 +152,7 @@ assess what you have learned in this chapter.
         - Wrong!
 
 .. mchoice:: cds_AA_fomular3
+   :author: Cynthia Lee
 
     Let f(n) = 2^n + 14n^2 + 4n^3. Which of the following is true?
 
@@ -170,6 +178,7 @@ assess what you have learned in this chapter.
         - Wrong!
 
 .. mchoice:: cds_AA_fomular4
+   :author: Cynthia Lee
 
     Let f(n) = 100. Which of the following is true?
 
@@ -195,6 +204,7 @@ assess what you have learned in this chapter.
         + Correct! O(1) can work.
 
 .. mchoice:: cds_AA_memory
+   :author: Cynthia Lee
 
    Each memory address indexes one byte (8 bits). Can you deduce from the drawing at right how many bits are used to represent int and double, respectively?
 
@@ -221,6 +231,7 @@ assess what you have learned in this chapter.
          - Wrong! 
 
 .. mchoice:: cds_AA_pointer
+   :author: Cynthia Lee
 
    What prints here?
 
@@ -252,6 +263,7 @@ assess what you have learned in this chapter.
         - Wrong! 
 
 .. mchoice:: cds_AA_memory_allocation
+   :author: Cynthia Lee
 
    What prints here?
 
@@ -283,6 +295,7 @@ assess what you have learned in this chapter.
         - Wrong! 
 
 .. mchoice:: cds_AA_memory_allocation1
+   :author: Cynthia Lee
 
    What prints here?
 
@@ -316,6 +329,7 @@ assess what you have learned in this chapter.
         - Wrong! 
 
 .. mchoice:: cds_AA_memory_allocation2
+   :author: Cynthia Lee
 
    These last three lines…
 
@@ -353,6 +367,7 @@ assess what you have learned in this chapter.
         - Wrong! 
 
 .. mchoice:: cds_AA_set1
+   :author: Cynthia Lee
 
     Which are Cliques?
 
@@ -380,6 +395,7 @@ assess what you have learned in this chapter.
         + Correct! A & C
 
  .. mchoice:: cds_AA_set2
+   :author: Cynthia Lee
 
     Which are Independent Sets?
 
@@ -408,6 +424,7 @@ assess what you have learned in this chapter.
 
 
 .. mchoice:: cds_AA_vertex
+   :author: Cynthia Lee
 
     Find a vertex cover S that uses the fewest number of vertices (|S| is minimized). What is |S|?
 
@@ -433,6 +450,7 @@ assess what you have learned in this chapter.
         - Wrong! 
 
    .. mchoice:: cds_AA_possibleTrue
+   :author: Cynthia Lee
 
     how many of the following are possibly true?
     if (!x0  && x0)

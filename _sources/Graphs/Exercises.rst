@@ -6,6 +6,7 @@ assess what you have learned in this chapter.
 
 
 .. mchoice:: cds_graph_ways
+   :author: Cynthia Lee
 
      How many of the following are true?
 
@@ -29,6 +30,7 @@ assess what you have learned in this chapter.
     
 
  .. mchoice:: cds_graph_Eulerian
+   :author: Cynthia Lee
 
     Is this graph Eulerian?
 
@@ -47,6 +49,7 @@ assess what you have learned in this chapter.
          + Correct! 
 
  .. mchoice:: cds_graph_Eulerian2
+   :author: Cynthia Lee
 
     Is this graph Eulerian?
 
@@ -64,6 +67,7 @@ assess what you have learned in this chapter.
         - Wrong! 
 
 .. mchoice:: cds_graph_search
+   :author: Cynthia Lee
 
    You predict the next step!
 
@@ -82,6 +86,7 @@ assess what you have learned in this chapter.
         - Wrong! 
 
 .. mchoice:: cds_graph_eff
+   :author: Cynthia Lee
 
    You calculated the shortest path for yourself (Yosemite to Palo Alto) and let’s just say that it took time X = O((|E| + |V|)log|V|)
    How long will it take you, in total, to calculate the shortest path for ALL of your relatives?
@@ -95,6 +100,7 @@ assess what you have learned in this chapter.
         - Wrong! 
 
 .. mchoice:: cds_graph_spanning
+   :author: Cynthia Lee
 
    How many distinct spanning trees are in this graph?
 
@@ -125,6 +131,7 @@ assess what you have learned in this chapter.
         + Correct! 
  
 .. mchoice:: cds_graph_MST
+   :author: Cynthia Lee
 
    How many distinct MSTs are in this graph?
 
@@ -155,6 +162,7 @@ assess what you have learned in this chapter.
         - Wrong!        
    
 .. mchoice:: cds_graph_tf
+   :author: Cynthia Lee
 
    Having at least two edges with the same weight is SUFFICIENT for having more than one distinct minimum spanning tree.
     

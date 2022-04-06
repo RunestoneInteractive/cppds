@@ -5,6 +5,7 @@ Answer the following **Multiple Choice** questions to
 assess what you have learned in this chapter.
 
 .. mchoice:: cds_intro_bug
+   :author: Cynthia Lee
 
     Can you find the bug here?
 
@@ -50,6 +51,7 @@ assess what you have learned in this chapter.
 
 
 .. mchoice:: cds_intro_betterone
+   :author: Cynthia Lee
 
     Which one is better?
 
@@ -88,6 +90,7 @@ assess what you have learned in this chapter.
 
 
 .. mchoice:: cds_intro_reference1
+   :author: Cynthia Lee
 
     What is the outcome of code?
 
@@ -123,6 +126,7 @@ assess what you have learned in this chapter.
 
 
 .. mchoice:: cds_intro_reference2
+   :author: Cynthia Lee
 
     What is the outcome of code?
 
@@ -160,6 +164,7 @@ assess what you have learned in this chapter.
 
 
 .. mchoice:: cds_intro_reference3
+   :author: Cynthia Lee
 
     What is the outcome of code?
 
@@ -196,6 +201,7 @@ assess what you have learned in this chapter.
         - Wrong! 
 
 .. mchoice:: cds_intro_pointer
+   :author: Cynthia Lee
 
     What is the correct picture?
 
@@ -229,6 +235,7 @@ assess what you have learned in this chapter.
         - Wrong! 
 
 .. mchoice:: cds_intro_reference1
+   :author: Cynthia Lee
 
     What is the outcome of code?
 
@@ -263,6 +270,7 @@ assess what you have learned in this chapter.
         - Wrong! 
 
 .. mchoice:: cds_intro_inherMammel
+   :author: Cynthia Lee
 
     What is printed?
     Siamese * s = new Siamese; 
@@ -296,6 +304,7 @@ assess what you have learned in this chapter.
         -  Wrong! 
 
 .. mchoice:: cds_intro_inherMammel2
+   :author: Cynthia Lee
 
     What is printed?
     Cat * c = new Siamese; 
@@ -329,6 +338,7 @@ assess what you have learned in this chapter.
         -  Wrong! 
 
 .. mchoice:: cds_intro_inherMammel3
+   :author: Cynthia Lee
 
     What is printed?
     Cat * c = new Siamese; 
@@ -362,6 +372,7 @@ assess what you have learned in this chapter.
         - Wrong! 
 
   .. mchoice:: cds_intro_design
+   :author: Cynthia Lee
 
     Which best explains good design of destructors in polymorphic classes?  
 

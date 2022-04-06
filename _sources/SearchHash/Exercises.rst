@@ -6,6 +6,7 @@ assess what you have learned in this chapter.
 
 
 .. mchoice:: cds_Hash_quick
+   :author: Cynthia Lee
 
      Can we do binary search on a linked list to implement a quick insert?
 
@@ -25,6 +26,7 @@ assess what you have learned in this chapter.
  
     
 .. mchoice:: cds_Harsh_BSTput
+   :author: Cynthia Lee
 
         Insert: 22, 9, 34, 18, 3     
         How many of these result in the same tree structure as above?
@@ -49,7 +51,8 @@ assess what you have learned in this chapter.
 
         - Wrong! 
     
-.. mchoice:: cds_Harsh_badBST //?
+.. mchoice:: cds_Harsh_badBST 
+   :author: Cynthia Lee
 
      How many distinctly structured BSTs are there that exhibit the worst-case height (height equals the number of nodes) for a tree with 5 nodes?
 
@@ -74,7 +77,8 @@ assess what you have learned in this chapter.
 
         + Correct! 2^4 = 16
 
-.. mchoice:: cds_Harsh_bestBST //?
+.. mchoice:: cds_Harsh_bestBST 
+   :author: Cynthia Lee
 
      What is the BEST CASE cost for doing containsKey() in BST?
 
@@ -100,6 +104,7 @@ assess what you have learned in this chapter.
         - Wrong!
 
 .. mchoice:: cds_Harsh_worstBST 
+   :author: Cynthia Lee
 
      What is the WORST CASE cost for doing containsKey() in BST?
 
@@ -125,6 +130,7 @@ assess what you have learned in this chapter.
         - Wrong!
 
 .. mchoice:: cds_Harsh_worstBST 
+   :author: Cynthia Lee
 
      What is the WORST CASE cost for doing containsKey() in BST if the BST  is complete??
 
@@ -150,6 +156,7 @@ assess what you have learned in this chapter.
         - Wrong!
 
 .. mchoice:: cds_Harsh_closedaddressing
+   :author: Cynthia Lee
 
     Where does key=“Annie” value=55 go if hashkey(“Annie”)   = 3?
 
@@ -166,6 +173,7 @@ assess what you have learned in this chapter.
         - Wrong!
 
 .. mchoice:: cds_Harsh_hashmap
+   :author: Cynthia Lee
 
     We don’t actually need to store the keys in the nodes—we only really need the key to find which index, then store the value there.TRUE or FALSE
 
@@ -178,6 +186,7 @@ assess what you have learned in this chapter.
          + Correct!
 
  .. mchoice:: cds_Harsh_print
+   :author: Cynthia Lee
 
     What does this print?
 
@@ -214,6 +223,7 @@ assess what you have learned in this chapter.
         - Wrong! 
 
 .. mchoice:: cds_Harsh_print2
+   :author: Cynthia Lee
 
     What does this print?
 
@@ -255,6 +265,7 @@ assess what you have learned in this chapter.
         + Correct! 
 
 .. mchoice:: cds_Harsh_Pprintorder
+   :author: Cynthia Lee
 
            
        How can we get this to print our ABCs in order?
@@ -282,6 +293,7 @@ assess what you have learned in this chapter.
         - Wrong! 
 
 .. mchoice:: cds_Harsh_printorder2
+   :author: Cynthia Lee
 
    That prints the ABC nodes in order, but notice that our ABC tree isn’t a BST. How do we print BST nodes in order?
 
@@ -319,6 +331,7 @@ assess what you have learned in this chapter.
 
 
 .. mchoice:: cds_Harsh_print3
+   :author: Cynthia Lee
 
     We can play the same game with non-alpha characters as keys: What does this print?
 

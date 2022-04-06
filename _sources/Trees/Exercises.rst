@@ -6,6 +6,7 @@ assess what you have learned in this chapter.
 
 
 .. mchoice:: cds_tree_remove
+   :author: Cynthia Lee
 
     Suppose we have a pointer (current) to the node containing the item to be removed.
     What additional information do we need to successfully remove the node?
@@ -34,6 +35,7 @@ assess what you have learned in this chapter.
         - Wrong! 
     
 .. mchoice:: cds_tree_binarytree
+   :author: Cynthia Lee
 
     How many of these are valid binary trees?
 
@@ -57,6 +59,7 @@ assess what you have learned in this chapter.
         - Wrong! 
 
 .. mchoice:: cds_tree_binaryheap
+   :author: Cynthia Lee
 
     How many of these are valid binary heaps?
 
@@ -80,6 +83,7 @@ assess what you have learned in this chapter.
         - Wrong!
     
 .. mchoice:: cds_tree_minbinaryheap
+   :author: Cynthia Lee
 
     How many of these are valid min-binary-heaps?
 
@@ -107,6 +111,7 @@ assess what you have learned in this chapter.
         - Wrong!
     
 .. mchoice:: cds_tree_minbinaryheap2
+   :author: Cynthia Lee
 
    In how many places could the smallest number in this min-binary-heap be located?
 
@@ -134,6 +139,7 @@ assess what you have learned in this chapter.
         - Wrong!
    
 .. mchoice:: cds_tree_arrayheap
+   :author: Cynthia Lee
 
    For the tree of height h, the array length is 2^h-1 For a node in array index i: Parent is at array index:?
 
@@ -161,6 +167,7 @@ assess what you have learned in this chapter.
         - Wrong!
 
 .. mchoice:: cds_tree_arraybinheap
+   :author: Cynthia Lee
 
    For the tree of height h, the array length is 2^h-1 For a node in array index i: Left child is at array index:?
 
@@ -188,6 +195,7 @@ assess what you have learned in this chapter.
         - Wrong!
 
 .. mchoice:: cds_tree_tf
+   :author: Cynthia Lee
 
    There is only one configuration of a valid min-heap containing the elements {34, 22, 3, 9, 18} 
 
@@ -201,6 +209,7 @@ assess what you have learned in this chapter.
         + Correct! 
 
  .. mchoice:: cds_tree_distict
+   :author: Cynthia Lee
 
    How many distinct min-heaps are possible for the elements {3, 9, 18, 22, 34}?
 
@@ -222,6 +231,7 @@ assess what you have learned in this chapter.
         - Wrong! 
 
  .. mchoice:: cds_tree_time
+   :author: Cynthia Lee
 
    What is the worst-case time cost for each heap operation: Add, Remove, Peek?
 
@@ -239,6 +249,7 @@ assess what you have learned in this chapter.
         - Wrong! 
 
 .. mchoice:: cds_tree_insert
+   :author: Cynthia Lee
 
    What is the next configuration in this sequence?
 

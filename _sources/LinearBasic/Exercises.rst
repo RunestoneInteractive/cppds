@@ -6,6 +6,7 @@ assess what you have learned in this chapter.
 
 
 .. mchoice:: cds_LB_input
+   :author: Cynthia Lee
 
     What does this code do?
 
@@ -46,6 +47,7 @@ assess what you have learned in this chapter.
 
 
 .. mchoice:: cds_LB_diffinput
+   :author: Cynthia Lee
 
     Ignoring operator precedence rules, how many distinct results are there to the following arithmetic expression : 3 * 3 + 3 * 3 ?
 
@@ -70,6 +72,7 @@ assess what you have learned in this chapter.
         - Wrong! Check out if there are the same ones for your results.
 
 .. mchoice:: cds_LB_polishnotation
+   :author: Cynthia Lee
 
     Which  infix expression does this postfix expression: 4 3 * 7 2 5 * + + equivalent to ?
 
@@ -93,6 +96,7 @@ assess what you have learned in this chapter.
 
   
 .. mchoice:: cds_LB_polishnotationcont
+   :author: Cynthia Lee
 
     Contents of the stack of the last question, reading from top-down:
 
@@ -115,6 +119,7 @@ assess what you have learned in this chapter.
 
 
 .. mchoice:: cds_LB_fifo
+   :author: Cynthia Lee
 
     How many of these operate as FIFO/Queue?
 
@@ -136,6 +141,7 @@ assess what you have learned in this chapter.
         + Correct!  
 
 .. mchoice:: cds_LB_Josephus
+   :author: Cynthia Lee
 
 .. figure:: Figures/Josephus.jpg
     :width: 200px

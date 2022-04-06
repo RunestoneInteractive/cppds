@@ -6,6 +6,7 @@ assess what you have learned in this chapter.
 
 
 .. mchoice:: cds_Sort_secondout
+   :author: Cynthia Lee
 
      I would like to move one paper from the two sorted sub-piles to the combined sorted pile. How many papers do I have to examine, at most, to identify the current smallest element of both sorted sub-piles?
 
@@ -27,6 +28,7 @@ assess what you have learned in this chapter.
         - Wrong! 
     
 .. mchoice:: cds_Sort_secondout
+   :author: Cynthia Lee
 
      How many steps does it take to fully merge two sorted sub-piles, A and B? (best/tight answer)
 
@@ -48,6 +50,7 @@ assess what you have learned in this chapter.
         - Wrong! 
     
 .. mchoice:: cds_Sort_secondout
+   :author: Cynthia Lee
 
      Consider an arbitrarily chosen (generic) particular exam and mentally track its progress throughout the algorithm. How many times does your exam pass through the merge step?
 

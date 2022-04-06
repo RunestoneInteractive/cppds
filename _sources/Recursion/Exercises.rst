@@ -6,6 +6,7 @@ assess what you have learned in this chapter.
 
 
 .. mchoice:: cds_Recursive_secondout
+   :author: Cynthia Lee
 
     What is the second thing printed when we call factorial(10)?
 
@@ -36,6 +37,7 @@ assess what you have learned in this chapter.
     
 
 .. mchoice:: cds_Recursive_third
+   :author: Cynthia Lee
 
     What is the third thing printed when we call factorial(10)?
 
@@ -66,6 +68,7 @@ assess what you have learned in this chapter.
         - Wrong! returned or printed?
 
 .. mchoice:: cds_Recursive_fourth
+   :author: Cynthia Lee
 
     What is the fourth thing printed when we call factorial(10)?
 
@@ -96,6 +99,7 @@ assess what you have learned in this chapter.
         - Wrong! 
 
 .. mchoice:: cds_Recursive_memory
+   :author: Cynthia Lee
 
     How does this look in memory?
 
@@ -118,6 +122,7 @@ assess what you have learned in this chapter.
     //!REMINDER!
 
  .. mchoice:: cds_Recursive_fourth
+   :author: Cynthia Lee
 
     What is the fourth thing printed when we call factorial(10)?
 
@@ -138,6 +143,7 @@ assess what you have learned in this chapter.
         - Wrong! 
 
 .. mchoice:: cds_Recursive_binary
+   :author: Cynthia Lee
 
     Which line should be coded here?
 
@@ -166,6 +172,7 @@ assess what you have learned in this chapter.
          - Wrong! 
 
  .. mchoice:: cds_Recursive_snow
+   :author: Cynthia Lee
 
     Where should this line of code be inserted to produce the pattern shown?
     drawFilledBox(window, cx, cy, dim, "Gray", "Black");
@@ -216,6 +223,7 @@ assess what you have learned in this chapter.
          + Correct! 
 
 .. mchoice:: cds_Recursive_realsnow
+   :author: Cynthia Lee
 
     Can these be made by changing the order of lines and/or deleting lines in the draw function?
 
@@ -249,6 +257,7 @@ assess what you have learned in this chapter.
          - Wrong!
 
 .. mchoice:: cds_Recursive_maze
+   :author: Cynthia Lee
 
    In what order do we visit these spaces?
 
@@ -276,6 +285,7 @@ assess what you have learned in this chapter.
 
 
 .. mchoice:: cds_Recursive_stack
+   :author: Cynthia Lee
 
    What is the deepest the Stack gets during the solving of this maze?
 
@@ -302,6 +312,7 @@ assess what you have learned in this chapter.
          + Correct! 
 
 .. mchoice:: cds_Recursive_fibonacci
+   :author: Cynthia Lee
 
    How many times would we calculate Fib(2) while calculating Fib(6)? See if you can just “read” it off the chart above.
 
@@ -324,6 +335,7 @@ assess what you have learned in this chapter.
          - Wrong!
 
 .. mchoice:: cds_Recursive_fibonacci-2
+   :author: Cynthia Lee
 
    Assume we have to calculate each unique function call once, but never again. And We “remember” the answer from the first time.
    How many rectangles remain in the above chart for n=5?
@@ -355,6 +367,7 @@ assess what you have learned in this chapter.
         + Correct! 6 or 9
 
 .. mchoice:: cds_Recursive_fibonacci-3
+   :author: Cynthia Lee
 
    Assume we have to calculate each unique function call once, but never again. And We “remember” the answer from the first time.
    For some integer n>2, what is the largest number of function calls that can be triggered by the calculation of F(n) in this new “remember” system?
@@ -382,6 +395,7 @@ assess what you have learned in this chapter.
          - Wrong! 
 
 .. mchoice:: cds_Recursive_memory
+   :author: Cynthia Lee
 
         How does this look in memory?
 
