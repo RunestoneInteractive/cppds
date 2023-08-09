@@ -12,7 +12,7 @@
    Introduction/ExceptionHandling.rst
    Introduction/DefiningFunctions.rst
    Introduction/ObjectOrientedProgramminginPythonDefiningClasses.rst
-   Introduction/.rst
+   Introduction/Exercises.rst
    Introduction/Summary.rst
    Introduction/KeyTerms.rst
    Introduction/DiscussionQuestions.rst
@@ -79,7 +79,7 @@
    BasicDS/BalancedSymbols(AGeneralCase).rst
    BasicDS/ConvertingDecimalNumberstoBinaryNumbers.rst
    BasicDS/InfixPrefixandPostfixExpressions.rst
-   BasicDS/.rst
+   BasicDS/Exercises.rst
 
 
 

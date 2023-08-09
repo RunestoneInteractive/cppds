@@ -14,3 +14,5 @@ Searching and Hashing
     DiscussionQuestions.rst
     ProgrammingExercises.rst
     Glossary.rst
+    Exercises.rst
+

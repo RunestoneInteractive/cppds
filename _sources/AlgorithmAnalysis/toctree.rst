@@ -16,3 +16,4 @@ Analysis
     DiscussionQuestions.rst
     ProgrammingExercises.rst
     Glossary.rst
+    Exercises.rst

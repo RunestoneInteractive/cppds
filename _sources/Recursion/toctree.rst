@@ -20,3 +20,5 @@ Recursion
     DiscussionQuestions.rst
     pythondsProgrammingExercises.rst
     Glossary.rst
+    Exercises.rst
+
