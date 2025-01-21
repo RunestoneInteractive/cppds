@@ -450,7 +450,7 @@ problem.
              int count = 0;
              while (i > 0){
                  count = count + 1;
-                 i = i // 2;
+                 i = i / 2;
              }
              return 0;
          }
